@@ -1,3 +1,3 @@
-"Premiäre ligne de notes." 
+"1Ëre ligne de notes." 
 "Deuxiäme ligne de notes." 
 "Troisiäme ligne (feature)." 
